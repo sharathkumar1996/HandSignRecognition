@@ -46,15 +46,19 @@ Tensorflow
 ## Installation
 
 1. Clone Repository
+
 git clone https://github.com/sharathkumar1996/HandSignRecognition.md
 
 2. Install Dependencies
+
 pip install -r requirements.txt
 
 3. Run Data Collection
+
 python data_collection.py
 
 4. Run Test file
+
 python test.py
 ```
     
