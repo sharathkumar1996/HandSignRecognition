@@ -2,7 +2,7 @@
 # Sign Language Detection 
 
 ## Project Overview
-This project aims to develop a real-time sign language detection system using computer vision techniques. The system is capable of capturing hand gestures via a webcam, preprocessing the images, and classifying the hand signs into predefined categories. The model used for classification is built using Teachable Machine by Google, ensuring a robust and accurate recognition of sign language gestures.
+This project aims to develop a real-time sign language detection system using computer vision techniques. The system is capable of capturing hand gestures via a webcam, preprocessing the images, and classifying the hand signs into predefined categories. The model used for classification is built using Teachable Machine by Google, ensuring a robust and accurate recognition of sign language gestures.  
 
 
 
